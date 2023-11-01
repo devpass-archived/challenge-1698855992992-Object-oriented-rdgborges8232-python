@@ -1,0 +1,2 @@
+## Object-oriented Programming Challenge
+In this challenge, we're going to create a simple Car class using Object-oriented Programming (OOP) principles in Python. The Car class should have attributes like make, model, year, and a method to start and stop the engine.
